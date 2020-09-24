@@ -2,6 +2,7 @@ class fileone
 {
 
 	public static void main(string[] args){
-		System.ou.println("my project");
-}
+		System.out.println("my project");
+                System.out.println("second line added");      
+}                                
 }
