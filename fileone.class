@@ -1,0 +1,7 @@
+class fileone
+{
+
+	public static void main(string[] args){
+		System.ou.println("my project");
+}
+}
